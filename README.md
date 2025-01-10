@@ -71,8 +71,5 @@ Feel free to try with other files or record your voice. I still have to try this
 
 *Important note*: the classes are encoded from 0 to 7 in the code. In the dataset, from 01 to 08. Be aware when you try. If the model predicts 0 and you are using a NEUTRAL file (01), this is correct and the expected behavior. Keras wants the predictions to start from 0 and not from 1, so the code is adjusted to cope with this requirement.
 
-Team Members:
-Abhay Gupta,
-Aditya Karmokar,
-Khadija Mohamad Haneefa, 
-Chennaboina Hemantha Lakshmi
+Creator:
+Hasnain Hussain
